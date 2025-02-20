@@ -1,6 +1,6 @@
-# ICS Programming Quiz :computer:
+# ICS Programming Evaluation :computer:
 
-**No notes/google/prior code is to be referenced during the quiz.**
+**No notes/google/prior code/GPTs or other resources are to be referenced during the quiz.**
 
 :exclamation:**IMPORTANT! Failure to both upload your code and complete your reflection will result in a mark of 0 for the digital part of the quiz.**:exclamation:
 
